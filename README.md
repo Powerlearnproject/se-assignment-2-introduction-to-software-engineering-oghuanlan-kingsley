@@ -8,11 +8,14 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 What is software engineering, and how does it differ from traditional programming?
+
+Answer:
 Software Engineering is a systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software. It applies engineering principles to software development to ensure reliability and maintainability. Unlike traditional programming, which focuses mainly on coding and implementation, software engineering encompasses a broader scope that includes requirements gathering, design, testing, and maintenance.
 
 Software Development Life Cycle (SDLC):
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 
+Answer:
 Phases of the SDLC:
 
 Planning: Identify the scope, objectives, and feasibility of the project. Develop a project plan, including timeline and resources.
@@ -27,6 +30,7 @@ Maintenance: Perform ongoing maintenance activities such as bug fixes, updates, 
 Agile vs. Waterfall Models:
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 
+Answer:
 Agile Model:
 
 Iterative and Incremental: Development is broken down into small, manageable iterations with regular feedback and adjustments.
@@ -47,6 +51,7 @@ Agile allows for changes throughout the project, whereas Waterfall requires upfr
 Requirements Engineering:
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 
+Answer:
 Requirements Engineering is the process of defining, documenting, and maintaining the requirements of the software system. It involves:
 
 Elicitation: Gathering requirements from stakeholders through interviews, surveys, and observation.
@@ -81,6 +86,7 @@ Importance: Testing identifies defects early, ensures software quality, and veri
 Version Control Systems:
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 
+Answer:
 Version Control Systems (VCS) are tools that help manage changes to source code over time. They enable multiple developers to collaborate on a project without overwriting each other's work.
 
 Importance:
@@ -96,6 +102,7 @@ Subversion (SVN): Centralized VCS with strong support for versioning and history
 Software Project Management:
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 
+Answer:
 Role of a Software Project Manager:
 
 Planning: Define project scope, objectives, timeline, and resources.
@@ -113,6 +120,7 @@ Adapting to changes in requirements.
 Software Maintenance:
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 
+Answer:
 Software Maintenance is the process of modifying a software product after its initial release to correct faults, improve performance, or adapt to a changed environment.
 
 Types of Maintenance:
@@ -126,6 +134,7 @@ Importance: Maintenance ensures the software remains functional, efficient, and 
 Ethical Considerations in Software Engineering:
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
+Answer:
 Ethical Issues:
 
 Privacy: Ensuring user data is protected and not misused.
